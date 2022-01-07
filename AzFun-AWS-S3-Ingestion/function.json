@@ -2,7 +2,7 @@
     "scriptFile": "__init__.py",
     "bindings": [
       {
-        "name": "mytimer",
+        "name": "AzFun-AWS-S3-Ingestion",
         "type": "timerTrigger",
         "direction": "in",
         "schedule": "%Schedule%"
